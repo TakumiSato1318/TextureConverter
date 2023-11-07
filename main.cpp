@@ -1,6 +1,5 @@
 #include<cstdio>
 #include<cstdlib>
-#include<DirectXTex.h>
 #include"TextureConverter.h"
 
 enum {
